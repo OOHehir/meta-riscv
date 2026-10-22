@@ -87,6 +87,7 @@ SRC_URI:append:milkv-duo-common = " \
 SRC_URI:append:milkv-duo = " file://milkv-duo.cfg"
 SRC_URI:append:milkv-duo256m = " file://milkv-duo256m.cfg"
 SRC_URI:append:milkv-duos = " file://milkv-duos.cfg"
+SRC_URI:append:visionfive2 = " file://visionfive2.cfg"
 
 # --- Misc per-machine ---
 INSANE_SKIP:append:eswin-ebc77-mainline                 = " textrel"
